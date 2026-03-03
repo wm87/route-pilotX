@@ -185,12 +185,6 @@ Optimale Darstellung für Fußgängerwege inklusive Steigung, Distanz und Routen
 
 Virtuelle Fahrt entlang der Route mit dynamischem Tracking, Sprachausgabe und Routenverlauf unterhalb der Statistik-Anzeige.
 
-## 6️⃣ Beispielstrecke – Brocken
-
-![Brocken](assets/brocken.png)
-
-Demonstration einer Bergroute mit allen Profilen, ideal für Tourismus- oder Outdoor-Anwendungen.
-
 ---
 
 # 🚀 Highlights
