@@ -23,33 +23,56 @@ Ob Unternehmensanwendung, individuelle Projekte oder Cloud‑Integration – mit
 
 ## 1️⃣ Gesamtüberblick & Wegpunkte
 
-![Gesamtüberblick](assets/overview.png)
+# RoutePilotX – Professionelle Multi‑Profil‑Routenplanung
 
-Zentrale Kartenansicht mit Auswahl von Profilen (Auto, Fahrrad, Fußgänger), Drag‑&‑Drop‑Wegpunkten und Zwischenstopps.
+![Enterprise Ready](https://img.shields.io/badge/Enterprise-Ready-0f4c81?style=for-the-badge)
+![Made in Germany](https://img.shields.io/badge/Made%20in-Germany-000000?style=for-the-badge)
+![Routing OSRM](https://img.shields.io/badge/Routing-OSRM-brightgreen?style=for-the-badge)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-v10.8-87ceeb?style=for-the-badge)
+![Plotly Charts](https://img.shields.io/badge/Charts-Plotly-critical?style=for-the-badge)
+![Docker Ready](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge)
+![Multi-Profile](https://img.shields.io/badge/Profiles-Car%20%7C%20Bicycle%20%7C%20Foot-ff69b4?style=for-the-badge)
+![Abo Modell](https://img.shields.io/badge/Modell-Subscription-6a0dad?style=for-the-badge)
 
-## 2️⃣ Profil – Auto
+---
 
-![Profil Auto](assets/profile_car.png)
+## Professionelle Routenplanung. Multi‑Profil. Sofort einsatzbereit.
 
-Detailliertes Profil der Route für das Auto mit Distanz, Höhe und Steigung. Unterhalb der Statistik-Anzeige wird der gesamte Routenverlauf visualisiert.
+**RoutePilotX** ist eine hochperformante, containerisierte Webanwendung für Routenberechnung und Visualisierung für Auto, Fahrrad und Fußgänger. Mit OSRM‑Routing, OpenLayers‑Karten und interaktiven Plotly‑Diagrammen bietet RoutePilotX eine sofort einsatzbereite Lösung für Logistik, Tourismusportale, Flottenmanagement und individuelle Mobilitätslösungen.
 
-## 3️⃣ Profil – Fahrrad
+Ob Unternehmensanwendung, individuelle Projekte oder Cloud‑Integration – mit RoutePilotX planen Sie **präzise, effizient und professionell**.
 
-![Profil Fahrrad](assets/profile_bicycle.png)
+---
 
-Interaktive Analyse von Fahrradrouten über Plotly mit direkter Darstellung des Routenverlaufs unter der Statistik.
+# 🖥️ Showcase – Funktionsbeispiele
 
-## 4️⃣ Profil – Fußgänger
+### 1️⃣ Gesamtüberblick & Wegpunkte
 
-![Profil Fußgänger](assets/profile_foot.png)
+![Gesamtüberblick](./assets/overview.png)
 
-Optimale Darstellung für Fußgängerwege inklusive Steigung, Distanz und Routenverlauf unterhalb der Statistik.
+### 2️⃣ Profil – Auto (default)
 
-## 5️⃣ Simulation – Auto
+![Profil Auto Original](./assets/profile_car.png)
 
-![Simulation Auto](assets/sim_car.png)
+### 3️⃣ Profil – Fahrrad (default)
 
-Virtuelle Fahrt entlang der Route mit dynamischem Tracking, Sprachausgabe und Routenverlauf unterhalb der Statistik-Anzeige.
+![Profil Fahrrad Original](./assets/profile_bicycle.png)
+
+### 4️⃣ Profil – Fußgänger (default)
+
+![Profil Fußgänger Original](./assets/profile_foot.png)
+
+### 5️⃣ Profil – Auto (optional CPS)
+
+![Profil Auto CPS](./assets/cps_profile_car.png)
+
+### 6️⃣ Profil – Fahrrad (optional CPS)
+
+![Profil Fahrrad CPS](./assets/cps_profile_bicycle.png)
+
+### 7️⃣ Profil – Fußgänger (optional CPS)
+
+![Profil Fußgänger CPS](./assets/cps_profile_foot.png)
 
 ---
 
